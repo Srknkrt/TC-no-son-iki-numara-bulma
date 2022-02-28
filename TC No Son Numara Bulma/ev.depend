@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1571559739 source:c:\users\sekov\desktop\ev\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1572617113 source:d:\denemle\ev\ev\main.c
+	<stdio.h>
+	<stdlib.h>
+
